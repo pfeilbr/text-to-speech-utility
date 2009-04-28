@@ -4,4 +4,5 @@ A command line utility that converts a specified string to an audio (.aiff) file
 
 <pre>
 Usage: TextToSpeechUtility <text> <path>
+E.g.: TextToSpeechUtility "hello world" hello_world.aiff
 </pre>
