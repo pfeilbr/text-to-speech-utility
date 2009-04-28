@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'TextToSpeechUtility' target in the 'TextToSpeechUtility' project.
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+#endif

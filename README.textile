@@ -1,0 +1,7 @@
+h1. Text-to-Speech Utility
+
+A command line utility that converts a specified string to an audio (.aiff) file
+
+<pre>
+Usage: TextToSpeechUtility <text> <path>
+</pre>
